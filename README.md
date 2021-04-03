@@ -6,9 +6,9 @@
 
 ## Game Play 
 
-Press space to jump
-Take the money
-Do not touch the bombs
+- Press space to jump
+- Take the money
+- Do not touch the bombs
 
 
-https://user-images.githubusercontent.com/33491353/113483591-a039de00-947a-11eb-808d-d80c0147c6f8.mov
+[![Watch the video](https://user-images.githubusercontent.com/33491353/113483591-a039de00-947a-11eb-808d-d80c0147c6f8.mov)
